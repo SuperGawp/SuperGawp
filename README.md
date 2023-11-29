@@ -1,4 +1,4 @@
-### Hi there, I'm Aryan! 👋
+### Hi there, I'm Aryan! 
 #### Pronouns: He/Him
 
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Introduction ✨
+## Introduction 
 I am a Software System Engineering student diving into the world of code and design. Currently immersed in the world of software development, I find myself exploring the details of figuring out how things work. Being from Australia, I did my first year of Software Engineering from Univeristy of Newcastle. After moving to Regina, Canada I've been continuing on here at University of Regina.
 
 ### Skills 🔭
